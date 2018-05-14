@@ -1,2 +1,3 @@
 # Proyecto_Niko
-Este es un proyecto bien chido UuU
+Este es un repositorio de la materia de Soporte
+Nombre Alumno: Chaez Castello Celestino Nicolas
